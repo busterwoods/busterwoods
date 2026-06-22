@@ -4,6 +4,8 @@ Hi 👋 My name is Troy Woods
 Computer Science Student
 ------------------------
 
+I'm a Computer Science student at the University of North Alabama with a minor in Mathematics, expected to graduate in December 2026. My experience mainly includes software development in C++ and Java, with some skills in JavaScript, C, and web technologies. I've worked on projects ranging from object-oriented applications to text-based games. Beyond technical skills, I serve as President of the Association for Computing Machinery (ACM), where I lead events, coordinate with university organizations, and help foster a community for aspiring developers. I'm passionate about problem-solving, software engineering, and continuously expanding my technical knowledge through hands-on projects and leadership opportunities.
+
 * 🌍  I'm based in Madison, Alabama
 * ✉️  You can contact me at [troyallenwoods@gmail.com](mailto:troyallenwoods@gmail.com)
 * 🧠  I'm currently learning The basics of Front End development
@@ -16,3 +18,6 @@ Computer Science Student
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/busterwoods" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/troy-woods-42b1b1338" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
+
+<a href="https://github.com/busterwoods" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busterwoods&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
